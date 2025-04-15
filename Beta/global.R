@@ -1,0 +1,5 @@
+load('data.rdata')
+#library(blavaan)
+library(lavaan)
+library(DT)
+set.seed(2048)
